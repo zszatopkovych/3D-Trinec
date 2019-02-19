@@ -10,4 +10,5 @@ https://3dwarehouse.sketchup.com/collection/b72fe332a66604d3bb0bf57fde8988f/Tři
 ## Authors
 - David Hotar
 - Ladislav Bur
+- Martin Chmiel
 - tomikak
